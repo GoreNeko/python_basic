@@ -17,7 +17,7 @@ dict : 사전
 str1 = "Python"
 bool = True
 str2 = 'Anaconda'
-float_v = 10.0 # 10 == 10.0
+float_v = 10.0
 int_v = 7
 list = [str1, str2]
 dict = {
